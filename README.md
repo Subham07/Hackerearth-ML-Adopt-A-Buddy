@@ -29,4 +29,4 @@ XGboost gave the best performance. RandomforestClassifier, LGBM and Catboost wer
 # Final Submission
 Final submission ranked me under top 100 as of now (56th) with average F1 Score of 90.83 (public leaderboard). Topper's score is 91.43.
 
-# If you like it, please give starts and comment for feedback. Thanks
+# If you like it, please give stars and comment for feedback. Thanks
