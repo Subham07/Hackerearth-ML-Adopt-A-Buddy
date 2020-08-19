@@ -8,3 +8,5 @@ As there are two classes , the approach taken is training two models for each cl
 All the code with explanations are given in the .ipynb file.
 
 I have also given training and testing data for reference.
+
+Notebook was created in Google Colab
