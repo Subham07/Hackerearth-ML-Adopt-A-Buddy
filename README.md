@@ -1,5 +1,5 @@
 # Hackerearth-ML-Adopt-A-Buddy
-My approach for solving the Hackerearth ML Adopt A Buddy challenge. (Top 4%)
+My approach for solving the Hackerearth ML Adopt A Buddy challenge. (Top 2%)
 
 # Problem Description: 
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/machine-learning/pet-adoption-9-5838c75b/
